@@ -10,13 +10,13 @@ Here is the process that is implemened in the given code:
 
 The defined class Solution includes the following methods, which following the aforementioned steps:
 
-(1) void Solution::mult_func(string&) which only takes care of \* operator, edits the string by replacing the \* and the numbers on both sides of the operator * with the result of the product. After running the function, the initial string will no longer include \* sign.
+(1) "void Solution::mult_func(string&)" which only takes care of \* operator, edits the string by replacing the \* and the numbers on both sides of the operator * with the result of the product. After running the function, the initial string will no longer include \* sign.
 
-(2) int Solution::summation(string &s) which uses the edited string, and benefits from recursion to take care of the summation and substraction.
+(2) "int Solution::summation(string &s)" which uses the edited string, and benefits from recursion to take care of the summation and substraction.
 
-(3) int Solution::calculate(string s) calls the aforementioned functions in the ordered explained above and return the calculated result.
+(3) "int Solution::calculate(string s)" calls the aforementioned functions in the ordered explained above and return the calculated result.
 
-* the function int Solution::to_int(char c) is introduced to convert each char to int.
+* It is noted that the function "int Solution::to_int(char c)" is introduced to convert each char to int.
 
 Here is the result for a some examples:
 
