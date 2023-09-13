@@ -14,7 +14,7 @@ The defined class Solution includes the following methods, which following the a
 
 (2) "int Solution::summation(string &s)" which uses the edited string, and benefits from recursion to take care of the summation and substraction.
 
-(3) "int Solution::calculate(string s)" calls the aforementioned functions in the ordered explained above and return the calculated result.
+(3) "int Solution::calculate(string s)" calls the aforementioned functions in the order explained above and return the calculated result.
 
 * It is noted that the function "int Solution::to_int(char c)" is introduced to convert each char to int.
 
