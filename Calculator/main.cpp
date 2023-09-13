@@ -5,7 +5,7 @@ using namespace std;
 
 class Solution{
     /*
-    * mult_func gets a string including numbers, and +, - , * operations.
+    * mult_func gets a string including numbers, and +, - , * operators.
      Then, it takes care of multiplications.
      * The +,- operations are then calculated by the summation function.
      * to_int function converts a char to its equivalent int calue.
