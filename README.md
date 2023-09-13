@@ -17,7 +17,10 @@ The defined class Solution includes the following methods, which following the a
 
 * the function int Solution::to_int(char c) is introduced to convert each char to int.
 
-Here is the result for a couple examples:
+Here is the result for a some examples:
+
+![Screenshot 2023-09-13 at 9 54 44 AM](https://github.com/sahandmsh/Calculator/assets/82970651/de94a115-fe24-4b8f-96c3-4dbc6c13af2c)
+
 
 
 
