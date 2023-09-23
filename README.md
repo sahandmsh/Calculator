@@ -1,6 +1,6 @@
 # Inline Calculator (C++)
 
-This code takes a string that include numbers and math operator. An example of the input string is "3-4\*5\*2-3-4". The code should consider the order of operations (first \*, then + and -). The result for the string "3-4\*5\*2-3-4" should be -44.
+This code takes a string that include single digit numbers and math operator. An example of the input string is "3-4\*5\*2-3-4". The code should consider the order of operations (first \*, then + and -). The result for the string "3-4\*5\*2-3-4" should be -44.
 Here is the process that is implemened in the given code:
 
 * We first take care of multiplications.
@@ -33,7 +33,7 @@ Here is the result for some examples:
 
 ![Screenshot 2023-09-13 at 9 58 10 AM](https://github.com/sahandmsh/Calculator/assets/82970651/549f7177-8f4b-413f-a449-f80b0fd97284)
 
-
+Question: Can you generalize this solution for the case with multidigit numbers?
 
 
 
