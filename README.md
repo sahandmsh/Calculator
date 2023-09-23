@@ -1,4 +1,4 @@
-# Inline Calculator (c++)
+# Inline Calculator (C++)
 
 This code takes a string that include numbers and math operator. An example of the input string is "3-4\*5\*2-3-4". The code should consider the order of operations (first \*, then + and -). The result for the string "3-4\*5\*2-3-4" should be -44.
 Here is the process that is implemened in the given code:
