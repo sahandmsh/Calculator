@@ -6,7 +6,7 @@ Here is the process that is implemened in the given code:
 * We first take care of multiplications.
 * Then, we take care of the + and - operations.
 
-The defined calculator function includes the following steps:
+A stack is used to extract numbers from the string and store them (operands stack). The defined calculator function includes the following steps:
 
 (1) if there is no "+" or "-" operator at the beginning of the string, insert a "+" sign.
 
